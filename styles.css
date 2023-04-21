@@ -1,3 +1,37 @@
+body {
+    margin:10px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    margin:0px;
+}
+
+header {
+    background: #004669;
+text-align: center;
+position: relative;
+padding: 10px 20px;
+color: white;
+font-size: 30px;
+  font-weight: bold;
+text-transform: capitalize;
+
+}
+
 .home-page {
     background-color:#e8ebec ;
+    margin: 0px;
+    padding:20px;
+}
+
+
+footer {
+    background: #004669;
+text-align: center;
+position: relative;
+padding: 5px 10px;
+color: white;
+font-size: 10px;
+  font-weight: bold;
+text-transform: capitalize;
+
 }
